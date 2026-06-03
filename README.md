@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Instrutor: <strong>Rodrigo Branas</strong>  |  Link: <a href="https://www.branas.io/formacoes/arquitetura-de-software">branas.io</a>
+  Instrutor: <strong>Rodrigo Branas</strong>  |  Início: <strong>03/06/2026</strong>
 </p>
 
 <p align="center">
