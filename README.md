@@ -38,7 +38,7 @@
 
 A **Formação em Arquitetura de Software** é um programa completo de especialização em arquitetura e design de software. Com mais de **100 horas de conteúdo** distribuído em **6 módulos**, o curso capacita desenvolvedores a tomar decisões conscientes de arquitetura e design, elevando o nível profissional e preparando para desafios reais do mercado.
 
-### 🎯 O que você vai dominar
+> ### 🎯 O que você vai dominar
 
 - **Clean Code e Refactoring** - Técnicas para escrever código de qualidade
 - **Test-Driven Development (TDD)** - Desenvolvimento orientado a testes
@@ -51,7 +51,7 @@ A **Formação em Arquitetura de Software** é um programa completo de especiali
 - **Event-Driven Architecture** - Arquitetura baseada em eventos
 - **CQRS** - Command Query Responsibility Segregation
 
-### 📊 Estrutura do Curso
+> ### 📊 Estrutura do Curso
 
 | Módulo                                  | Conteúdo                                                         |
 | --------------------------------------- | ---------------------------------------------------------------- |
@@ -62,7 +62,7 @@ A **Formação em Arquitetura de Software** é um programa completo de especiali
 | **5. Design e Arquitetura do Frontend** | React vs Vue.js, TDD no Frontend, Arquitetura                    |
 | **6. DevOps e Infraestrutura**          | Docker, GitHub Actions, AWS, Terraform                           |
 
-### Aulas
+> ### Aulas
 
 - Aula 01
   - [x] - Criação do Ambiente ( Projeto )
@@ -106,6 +106,6 @@ A **Formação em Arquitetura de Software** é um programa completo de especiali
   - [ ] - Frontend - TDD
   - [ ] - Frontend - Clean Architecture, Hexagonal, SOLID e Design Patterns
 
-### 🔗 Links Úteis
+> ### 🔗 Links Úteis
 
 - **Página do Curso**: https://www.branas.io/formacoes/arquitetura-de-software
