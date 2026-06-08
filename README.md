@@ -109,3 +109,37 @@ A **Formação em Arquitetura de Software** é um programa completo de especiali
 > ### 🔗 Links Úteis
 
 - **Página do Curso**: https://www.branas.io/formacoes/arquitetura-de-software
+
+   <details>
+      <summary><h4>Automação de Testes e Test-Driven Developement</h4></summary>
+
+  > Regras para Testes : O teste deve conter um Given / When / Then
+  - Given/Arrange: Definição de todas as informações necessárias para executar o comportamento que será testado.
+  - When/Act : Exectar o comportamento
+  - Then/Assert : Verificar o que aconteceu após a execução, comparando as informações retornadas com a expectativa que foi criada.
+
+```typescript
+
+```
+
+> Critérios de Qualidade de um teste <strong>FIRST</strong>
+
+- FAST : Os testes devem rodar rápido.
+- INDEPENDENT : Não deve existir dependência entre os testes, eles devem poder ser executados de forma isolada.
+- REPEATABLE : O resultado deve ser o mesmo independente da quantidade de vezes que ele seja executado.
+- SELF-VALIDATING : O próprio teste deve ter uma saída bem definida que é válida ou não fazendo com que ele passe ou falhe.
+- TIMELY : Os testes devem ser escritps antes do código-fonte.
+
+> Leis do TDD
+
+- voce não pode escrever nenhum código até ter **escrito um teste que detecte uma possível falha.**
+- Você não pode escrever mais testes de unidade do que o **suficiente para detectar a falha.**
+- Você não pode escrever mais código do que o **suficiente para passar nos testes**
+
+(Robert C.Martin)
+
+> **Foque no que tem mais risco e muda com mais frequencia**, o sucesso não está e mter 100% de cobertura mas sim em _automatizar os testes daqueilo que dá mais retorno_.
+
+> **Usar test patterns como um stub ou mock não é necessariamente ruim**, em muitos casos é algo necessário, mas só conseguir testar se utilizar esses recursos pode indicar que o <u>design precisa melhorar</u>
+
+  </details>
